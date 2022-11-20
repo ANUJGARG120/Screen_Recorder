@@ -13,7 +13,18 @@ h1{
     font-family:'Times New Roman', Times, serif;
     font-size: 70px;
 }
+button{
 
+  font-size: 18px;
+  border: none;
+
+  background-color: rgb(136, 10, 10);
+  color: rgb(235, 226, 226);
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+}
 .video{
     position: absolute;
     display: flex;
