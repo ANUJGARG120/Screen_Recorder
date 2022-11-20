@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(250, 211, 161);
+  background-image: url("lake.jpg");
+  width: auto;
+  height: auto;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(20, 19, 18);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.video{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /* border: 6px solid #171817; */
+    box-shadow: 10px 10px 5px rgb(17, 17, 17);
+    border-radius: 10px;
+    }
